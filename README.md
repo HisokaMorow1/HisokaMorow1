@@ -1,7 +1,9 @@
 <h1 align="center">¡Bienvenido al perfil de HisokaMorow1 👋!</h1>
 
 <p align="center">
-  <a href="https://github.com/HisokaMorow1"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF4A93&center=true&vCenter=true&width=500&lines=¡Bienvenido+a+mi+GitHub!;" alt="Typing SVG"></a>
+  <a href="https://github.com/HisokaMorow1">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF4A93&center=true&vCenter=true&width=500&lines=¡Bienvenido+a+GitHub+de+%E3%83%92%E3%82%BD%E3%82%AB%E3%83%A2%E3%83%AD%E3%82%A6!;" alt="Typing SVG">
+  </a>
 </p>
 
 <p align="center">
