@@ -12,8 +12,8 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería Civil Informática**
-- 🧮 Me apasionan las **matemáticas**
+- 🎓 Estudiante de **Ingeniería Civil en Informática y Computación**
+- 🧮 Me apasiona la **matemática**
 - 🌱 Actualmente estoy aprendiendo a programar en **C** y **Java**
 
 ## 🚀 Herramientas y Tecnologías
