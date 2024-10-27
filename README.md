@@ -39,5 +39,5 @@
 ## 📈 Gráfico de Actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HisokaMorow1&theme=rogue" alt="Gráfico de actividad de GitHub">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HisokaMorow1&theme=rogue" alt="Gráfico de actividad de GitHub">
 </p>
