@@ -14,7 +14,7 @@
 
 - 🎓 Estudiante de **Ingeniería Civil en Informática y Computación**
 - 🧮 Me apasiona la **matemática**
-- 🌱 Actualmente estoy aprendiendo a programar en **C**, **Java**, **SQL** y **PHP**
+- 🌱 Actualmente estoy aprendiendo a programar en **C**, **Java**, **SQL**, **PHP** y **Python**
 
 ## 🚀 Herramientas y Tecnologías
 
