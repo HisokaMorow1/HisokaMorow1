@@ -1,4 +1,4 @@
-<h1 align="center">¡Bienvenido al perfil de HisokaMorow1 👋!</h1>
+<h1 align="center">¡Bienvenido al perfil de Duvan Figueroa!</h1>
 
 <p align="center">
   <a href="https://github.com/HisokaMorow1">
@@ -14,9 +14,9 @@
 
 - 🎓 Estudiante de **Ingeniería Civil en Informática y Computación**
 - 🧮 Me apasiona la **matemática**
-- 🌱 Actualmente estoy aprendiendo a programar en **C**, **Java**, **SQL**, **PHP** y **Python**
+- 🌱 Actualmente estoy aprendiendo a programar en **C**, **Java**, **SQL**, **PHP**, **Python** y **mas cosas que no recuerdo ahora.**
 
-## 🚀 Herramientas y Tecnologías
+##  🚀 Herramientas y Tecnologías
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
