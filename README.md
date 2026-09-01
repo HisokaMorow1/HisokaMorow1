@@ -26,13 +26,6 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
-## 📈 Gráfico de Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HisokaMorow1&theme=rogue" alt="Gráfico de actividad de GitHub">
-</p>
-
 <table>
   <tr>
     <td>
